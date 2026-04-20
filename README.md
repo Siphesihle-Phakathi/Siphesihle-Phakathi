@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Siphesihle
 
-<!--
-**Siphesihle-Phakathi/Siphesihle-Phakathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **3rd year ICT student** at CPUT, and right now I'm looking for a **Work Integrated Learning (WIL)** opportunity.
 
-Here are some ideas to get you started:
+I enjoy solving problems, helping people with tech, and understanding how networks actually work.  
+I’ve done the Google IT Support certificate, built a few small projects, and I’m ready to learn from real teams in a real working environment.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔎 **What I’m looking for:**  
+IT Support | Networking | Cybersecurity (entry-level / WIL)
+
+📍 Cape Town  
+📫 *219207534@mycput.ac.za*  
+
+
+> I don't know everything yet, But I show up, I listen, and I get things done.
