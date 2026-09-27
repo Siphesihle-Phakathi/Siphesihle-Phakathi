@@ -34,7 +34,6 @@ Designed and implemented a simulated IT network using Cisco Packet Tracer. Confi
 
 ---
 
-https://github.com/user-attachments/assets/08a061a4-3512-49de-8b11-c453abbbe65b
 
 ## Additional Skills
 
